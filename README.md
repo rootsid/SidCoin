@@ -4,7 +4,7 @@ SidCoin integration/staging tree
 http://www.sidcoin.org //Coming soon
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 SidCoin Developers
+Copyright (c) 2017-2018 SidCoin Developers
 
 What is SidCoin?
 ----------------
