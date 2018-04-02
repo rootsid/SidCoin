@@ -1,2 +1,2 @@
-// No build information available
-#define BUILD_DATE "2015-01-12 16:55:18 -1000"
+#define BUILD_DESC "v0.8-dirty"
+#define BUILD_DATE "2018-04-01 21:05:20 -0700"
